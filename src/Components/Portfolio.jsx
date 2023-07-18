@@ -7,8 +7,8 @@ const Portfolio = () => {
     {
       id: 1,
       src: portfolio,
-      demo: "",
-      code: "",
+      demo: "https://main--shimmering-meringue-db1bfc.netlify.app/",
+      code: "https://github.com/Aditya9699/Portfolio",
     },
     {
       id: 2,
