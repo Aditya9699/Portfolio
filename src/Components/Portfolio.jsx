@@ -1,5 +1,5 @@
 import React from "react";
-import portfolio from "../assets/portfolio.png";
+import portfolio from "../assets/Portfolio.png";
 import invest from "../assets/Invest.png";
 import food from "../assets/Food.png";
 const Portfolio = () => {
