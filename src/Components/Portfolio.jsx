@@ -1,5 +1,5 @@
 import React from "react";
-import portfolio from "../assets/portfolio.png";
+import portfolio from "../assets/Portfolio.png";
 import invest from "../assets/Invest.png";
 import food from "../assets/Food.png";
 const Portfolio = () => {
@@ -7,8 +7,8 @@ const Portfolio = () => {
     {
       id: 1,
       src: portfolio,
-      demo: "",
-      code: "",
+      demo: "https://main--shimmering-meringue-db1bfc.netlify.app/",
+      code: "https://github.com/Aditya9699/Portfolio",
     },
     {
       id: 2,
