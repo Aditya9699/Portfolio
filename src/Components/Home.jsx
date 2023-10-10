@@ -20,8 +20,13 @@ const Home = () => {
             {" "}
             <span>
               {" "}
+<<<<<<< HEAD
               MERN full stack developer with 2.2 years of experience who is comfortable
               working with ReactJS, Redux, Javascript, Node.js, Express.js, MongoDB and responsive
+=======
+              ReactJS developer with 2 years of experience who is comfortable
+              working with ReactJS, Redux, Javascript, HTML/CSS and responsive
+>>>>>>> bd0534000dc041c5990f1121c718ae3853056200
               web design to deliver exceptional customer experience.
             </span>
           </p>
