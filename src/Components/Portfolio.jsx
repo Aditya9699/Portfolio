@@ -12,15 +12,15 @@ const Portfolio = () => {
     },
     {
       id: 2,
-      src: invest,
-      demo: "https://fluffy-crostata-75e526.netlify.app/",
-      code: "https://github.com/Aditya9699/Investment-Calculator",
-    },
-    {
-      id: 3,
       src: food,
       demo: "https://exquisite-salmiakki-c96934.netlify.app/",
       code: "https://github.com/Aditya9699/Food_Order_App",
+    },
+    {
+      id: 3,
+      src: invest,
+      demo: "https://fluffy-crostata-75e526.netlify.app/",
+      code: "https://github.com/Aditya9699/Investment-Calculator",
     },
   ];
   return (

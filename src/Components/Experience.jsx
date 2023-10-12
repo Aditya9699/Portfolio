@@ -5,6 +5,10 @@ import css from "../assets/css.png";
 import javascript from "../assets/javascript.png";
 import reactImage from "../assets/react.png";
 import github from "../assets/github.png";
+import mongodb from "../assets/mongodb.png";
+import node from "../assets/node.png";
+import express from "../assets/express.png"
+
 const Experience = () => {
   const techs = [
     {
@@ -33,6 +37,24 @@ const Experience = () => {
     },
     {
       id: 5,
+      src: node,
+      title: "Node.js",
+      style: "shadow-green-400",
+    },
+    {
+      id: 6,
+      src: express,
+      title: "Express.js",
+      style: "shadow-yellow-400",
+    },
+    {
+      id: 7,
+      src: mongodb,
+      title: "MongoDB",
+      style: "shadow-green-400",
+    },
+    {
+      id: 8,
       src: github,
       title: "GitHub",
       style: "shadow-gray-400",
