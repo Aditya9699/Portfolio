@@ -41,9 +41,9 @@ const SocialLinks = () => {
           Resume <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "/Aditya_Patil.pdf",
+      href: "/Aditya_Patil_Resume.pdf",
       style: " round-br-md",
-      download: "true",
+      download: "Aditya_Patil_Resume",
     },
   ];
   return (
